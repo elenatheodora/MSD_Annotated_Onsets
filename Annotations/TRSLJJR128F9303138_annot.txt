@@ -1,0 +1,8 @@
+4.473469388	New Point
+5.358367347	New Point
+5.712653061	New Point
+5.976326531	New Point
+6.348571429	New Point
+7.800000000	New Point
+8.593469388	New Point
+9.267755102	New Point
